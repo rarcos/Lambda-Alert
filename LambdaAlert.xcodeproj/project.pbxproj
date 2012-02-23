@@ -183,6 +183,9 @@
 /* Begin PBXProject section */
 		0D75680613A0A8590031D9FA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
 			buildConfigurationList = 0D75680913A0A8590031D9FA /* Build configuration list for PBXProject "LambdaAlert" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
